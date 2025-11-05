@@ -1,0 +1,27 @@
+td {
+  padding: 15px 0 15px 5px;
+  color: #6c757d;
+}
+
+.table-style {
+  padding: 50px;
+}
+
+.page {
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+.table.no-internal-borders,
+.table.no-internal-borders th,
+.table.no-internal-borders td {
+  border: none;
+}
+
+.table.no-internal-borders {
+  border: 1px solid #dee2e6;
+}
+
+th{
+    color: #3a3a3a !important;
+}

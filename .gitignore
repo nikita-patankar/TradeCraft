@@ -1,0 +1,22 @@
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Package locks (keep only if required)
+# package-lock.json
+
+# Cache
+.cache/
+**/.cache/
+
+# Build folders
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
